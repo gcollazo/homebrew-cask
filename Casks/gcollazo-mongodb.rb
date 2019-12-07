@@ -6,7 +6,7 @@ cask 'gcollazo-mongodb' do
   url "https://github.com/gcollazo/mongodbapp/releases/download/#{version}/MongoDB.zip"
   appcast 'https://github.com/gcollazo/mongodbapp/releases.atom'
   name 'MongoDB'
-  homepage 'https://elweb.co/mongodb-app/'
+  homepage 'http://gcollazo.github.io/mongodbapp/'
 
   app 'MongoDB.app'
 
